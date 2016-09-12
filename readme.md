@@ -5,12 +5,12 @@ with pure.css themes and an API that can access a mongoDB database. This will
 be my current teaching base. 
 
 There may be versions other than master - for learning stages
-A - basic express server, web page, css, mongoDB, insert entry, list entries
-B - separate config file, json data file, fonts, icons
-C - web socket chat
-D - firebase ?
-E - react version
-F - angular 2 ?
+- basic express server, web page, css, mongoDB, insert entry, list entries
+- separate config file, json data file, fonts, icons
+- web socket chat
+- firebase ?
+- react version
+- angular 2 ?
 
 A - centre page, responsive
     theme working
